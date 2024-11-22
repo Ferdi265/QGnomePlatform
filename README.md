@@ -1,3 +1,16 @@
+QGnomePlatform for Adwaita-Solarized-Qt
+=======================================
+
+This fork of [QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform)
+focuses on keeping it working as long as possible to allow
+[adwaita-solarized-qt](https://github.com/Ferdi265/adwaita-solarized-qt) to
+continue to exist.
+
+Upstream is no longer maintained, but this fork will continue to exist as long
+as it's feasible for me to keep compatible with Qt.
+
+Original README below:
+
 QGnomePlatform
 ==========
 
